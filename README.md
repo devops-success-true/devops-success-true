@@ -10,7 +10,7 @@
 
 ### 🔹 [6. Private EKS Cluster with Terraform](https://github.com/devops-success-true/6.Private-EKS-AWS-cluster-Terraform)  
 - Production-grade **EKS private cluster** on AWS.  
-- Configured with **Terraform**, **GitOps (ArgoCD)**, and full observability.  
+- Configured with **Terraform**, **GitOps (ArgoCD)**, **Autoscaler**, **ALB Controller**, **open-source Nginx Controller**, **Cert-manager**, **Karpenter**, **Prometheus&Grafana monitoring**, **Pod-Identity** and full observability.  
 ✅ *Outcome: Infrastructure-as-code implementation of AWS EKS for real production use cases.*
 
 ---
