@@ -11,18 +11,22 @@
 
 ## 🌟 Key Projects & Outcomes  
 
-### 🔹 [6. Private EKS Cluster with Terraform](https://github.com/devops-success-true/6.Private-EKS-AWS-cluster-Terraform)  
-- Production-grade **EKS private cluster** on AWS.  
-- Configured with **Terraform**, **GitOps (ArgoCD)**, **Autoscaler**, **ALB Controller**, **open-source Nginx Controller**, **Cert-manager**, **Karpenter**, **Prometheus&Grafana monitoring**, **Pod-Identity** and full observability.  
-✅ *Outcome: Infrastructure-as-code implementation of AWS EKS for real production use cases.*
+### 🔹 [1. MERN Stack E-commerce Basecode for Labs](https://github.com/devops-success-true/1.MERN-stack-E-commerce-basecode-for-labs)  
+- The **starting codebase** for MERN stack labs and experiments.  
+✅ *Outcome: Serves as the foundation for all progressive DevOps deployments (Monolithic → Docker → CI/CD → Kubernetes).*
 
 ---
 
-### 🔹 [5. Private AKS Cluster with Terraform](https://github.com/devops-success-true/5.Private-AKS-cluster-Terraform)  
-- Production-grade **AKS private cluster** on Azure.  
-- Includes **OIDC federated identity**, **Azure Key Vault**, **ACR**, **Azure Monitor**, and **Private DNS Zones**.  
-- GitOps with **ArgoCD** and observability enabled.  
-✅ *Outcome: Demonstrates secure and automated AKS deployments ready for enterprise use.*
+### 🔹 [2. MERN Stack E-commerce (Monolithic Deployment)](https://github.com/devops-success-true/2.MERN-stack-E-commerce-Monolithic-deployment)  
+- Full MERN stack app deployed on a **VM with Nginx** + MongoDB Atlas.  
+✅ *Outcome: Baseline deployment that simulates legacy-style monolithic delivery.*
+
+---
+
+### 🔹 [3. Dockerizing MERN E-commerce](https://github.com/devops-success-true/3.-Dockerizing-docker-composing-MERN-stack-E-commerce)  
+- Migrated a **MERN stack app** from monolithic to **Dockerized services**.  
+- Frontend and backend orchestrated with **Docker Compose**.  
+✅ *Outcome: Demonstrates modernization from VM-based to container-based deployment.*
 
 ---
 
@@ -34,22 +38,18 @@
 
 ---
 
-### 🔹 [3. Dockerizing MERN E-commerce](https://github.com/devops-success-true/3.-Dockerizing-docker-composing-MERN-stack-E-commerce)  
-- Migrated a **MERN stack app** from monolithic to **Dockerized services**.  
-- Frontend and backend orchestrated with **Docker Compose**.  
-✅ *Outcome: Demonstrates modernization from VM-based to container-based deployment.*
+### 🔹 [5. Private AKS Cluster with Terraform](https://github.com/devops-success-true/5.Private-AKS-cluster-Terraform)  
+- Production-grade **AKS private cluster** on Azure.  
+- Includes **OIDC federated identity**, **Azure Key Vault**, **ACR**, **Azure Monitor**, and **Private DNS Zones**.  
+- GitOps with **ArgoCD** and observability enabled.  
+✅ *Outcome: Demonstrates secure and automated AKS deployments ready for enterprise use.*
 
 ---
 
-### 🔹 [2. MERN Stack E-commerce (Monolithic Deployment)](https://github.com/devops-success-true/2.MERN-stack-E-commerce-Monolithic-deployment)  
-- Full MERN stack app deployed on a **VM with Nginx** + MongoDB Atlas.  
-✅ *Outcome: Baseline deployment that simulates legacy-style monolithic delivery.*
-
----
-
-### 🔹 [1. MERN Stack E-commerce Basecode for Labs](https://github.com/devops-success-true/1.MERN-stack-E-commerce-basecode-for-labs)  
-- The **starting codebase** for MERN stack labs and experiments.  
-✅ *Outcome: Serves as the foundation for all progressive DevOps deployments (Monolithic → Docker → CI/CD → Kubernetes).*
+### 🔹 [6. Private EKS Cluster with Terraform](https://github.com/devops-success-true/6.Private-EKS-AWS-cluster-Terraform)  
+- Production-grade **EKS private cluster** on AWS.  
+- Configured with **Terraform**, **GitOps (ArgoCD)**, **Autoscaler**, **ALB Controller**, **open-source Nginx Controller**, **Cert-manager**, **Karpenter**, **Prometheus&Grafana monitoring**, **Pod-Identity** and full observability.  
+✅ *Outcome: Infrastructure-as-code implementation of AWS EKS for real production use cases.*
 
 ---
 
