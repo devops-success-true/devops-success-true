@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kastro  
 
-🚀 **Certified DevOps & Cloud Engineer** (CKA, Terraform Associate, AWS SAA, AZ-104)  
+🚀 **Certified DevOps & Cloud Engineer**   
 [CKA](https://www.credly.com/badges/99a58b52-5442-460f-99bd-d515e87b330c/public_url) • 
 [Terraform Associate](https://www.credly.com/badges/5b746f81-e87a-406d-8520-fe7c9949117b/public_url) • 
 [AWS SAA](https://www.credly.com/badges/69826cd0-e1b7-4d34-b097-70728713a3fc/public_url) • 
