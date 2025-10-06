@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Kastro  
 
 🚀 **Certified DevOps & Cloud Engineer** (CKA, Terraform Associate, AWS SAA, AZ-104)  
+[CKA](https://www.credly.com/badges/99a58b52-5442-460f-99bd-d515e87b330c/public_url) • 
+[Terraform Associate](https://www.credly.com/badges/5b746f81-e87a-406d-8520-fe7c9949117b/public_url) • 
+[AWS SAA](https://www.credly.com/badges/69826cd0-e1b7-4d34-b097-70728713a3fc/public_url) • 
+[AZ-104](https://learn.microsoft.com/en-us/users/kastriotymeri-9234/transcript/dgww8fqq31gjgl3)
 🔧 Skilled in **Kubernetes (AKS/EKS/K3s)**, **Terraform**, **CI/CD (GitHub Actions, ArgoCD)**, **Azure & AWS**, and **containerization** (Docker).  
 🎯 I build **production-grade DevOps solutions** and showcase **real-world end-to-end projects**.  
 
